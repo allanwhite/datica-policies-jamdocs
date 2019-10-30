@@ -1,7 +1,7 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>Jamdocs - the ultimate static generated documentation theme for the JAM-stack</h1>
+      <h1>Datica Compliance Policies</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
@@ -23,9 +23,9 @@ export default {
     Shortcut
   },
   metaInfo: {
-    title: 'The ultimate static generated documentation theme for the JAM-stack',
+    title: 'Datica Compliance Policies',
     meta: [
-      { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+      { key: 'description', name: 'description', content: 'Datica open-source compliance policies.' }
     ]
   }
 }
