@@ -1,5 +1,5 @@
 <template>
-    <aside class="sidebar" :class="{'sidebar--open' : this.$store.state.sidebarOpen}">
+    <aside class="sidebar mask-top" :class="{'sidebar--open' : this.$store.state.sidebarOpen}">
       <nav>
         <ul>
           <li class="section" v-for="{ node } in $static.menu.edges" :key="node.id">
@@ -106,7 +106,7 @@ export default {
 .sidebar {
   transition: background .15s ease-in-out, transform .15s ease-in-out, border-color .15s linear;
   padding: 100px 30px 30px;
-  width: 300px;
+  width: $sidebarWidth;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -161,7 +161,7 @@ ul {
 }
 
 .section {
-  margin-bottom: 30px;
+  margin-bottom: 4rem;
 }
 
 .section-title {
@@ -185,8 +185,8 @@ ul {
   &::after {
     content: '';
     transition: opacity .15s ease-in-out;
-    width: 6px;
-    height: 6px;
+    width: 7px;
+    height: 7px;
     background: $brandPrimary;
     border-radius: 100%;
     display: block;
@@ -197,6 +197,8 @@ ul {
   }
 
   &.current {
+    opacity: 1;
+    font-weight: bold;
     &::after {
       opacity: 1;
     }

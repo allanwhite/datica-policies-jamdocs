@@ -4,17 +4,21 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Purpose and Scope",
+          "slug": "purpose"
+        },
+        {
+          "title": "Roles and Responsibilities",
+          "slug": "roles"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Policies",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Policies",
+          "slug": "policies"
         }
       ]
     }
