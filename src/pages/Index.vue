@@ -10,6 +10,7 @@
         <Shortcut link="/policies" text="Policies" icon="check-square-icon" />
       </nav>
       <GitLink class="git" size="large" />
+      <span class="sitelink">Visit <a href="https://datica.com/" title="Datica Main Site">Datica</a> main site</span>
     </div>
   </Layout>
 </template>
@@ -74,5 +75,12 @@ nav {
 p.lead {
   margin: 1rem auto 3rem auto;
   max-width: 50em;
+}
+.sitelink {
+  margin: 1rem;
+  text-align: center;
+  a {
+    font-weight: bold;
+  }
 }
 </style>
