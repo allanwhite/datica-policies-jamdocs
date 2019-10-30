@@ -54,7 +54,7 @@ h1 {
   margin-top: 0;
 
   @include respond-above(md) {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 }
 

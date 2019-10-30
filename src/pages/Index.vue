@@ -2,11 +2,12 @@
   <Layout :sidebar="false">
     <div class="content">
       <h1>Datica Compliance Policies</h1>
+      <p class="lead">This is the public version of Datica's HIPAA Compliance Policies. For pull requests, or to download the source, please visit the github project for this site. If you have any further questions, please reach out to us at hello@datica.com.</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+        <Shortcut link="/purpose" text="Purpose and Scope" icon="align-center-icon" />
+        <Shortcut link="/roles" text="Roles and Responsibilities" icon="users-icon" />
+        <Shortcut link="/policies" text="Policies" icon="check-square-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
@@ -69,5 +70,9 @@ nav {
   @include respond-above(md) {
     margin: 5em 0 0;
   }
+}
+p.lead {
+  margin: 1rem auto 3rem auto;
+  max-width: 50em;
 }
 </style>

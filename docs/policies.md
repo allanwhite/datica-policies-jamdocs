@@ -49,7 +49,7 @@ It is Datica’s goal to make all reasonable and appropriate attempts to maintai
 
 A designated team of people within Datica comprise the Change Advisory Board (CAB). This team will review changes, approve them where required (or not), and review emergency changes after the emergency has been resolved. A designee from the CAB will report emergency changes to the SCG Group.  The CAB is comprised of technical and customer support department heads and members of the Information Security/Risk Management/Compliance team. 
 
-#### Three categories of change:
+**Three categories of change:**
 
 1. A **Standard Change** is a low-risk configuration change, release, or update that has little or no chance to affect the availability of Tier 1 or Tier 2 systems or applications. A list of examples of changes that are likely to fall into the Standard category can be found in the Change Management SOP. These changes do not require approval by the CAB prior to execution. The change procedures are reviewed periodically by the CAB to ensure compliance with the process. Standard changes do need to be reviewed by a qualified individual, such as the relevant department head, to confirm that the change is, in fact, a routine and low-risk change. These changes require some planning for how the change will be deployed, who is performing the change, QA testing, and a rollback plan. Standard Changes follow a pre-approved, well-defined procedure. These changes have a very low likelihood of causing interruption of service, are changes that have been developed and tested in a documented, repeatable way, have undergone peer review as part of their development, and have a documented and/or automated release/deployment process. Changes that do not affect the stability, availability, or security of production systems and services (Tier 1 systems) would likely fall into this category. A standard change requires that a standard change management ticket be created and filled out prior to completion or implementation of the change.
 2. A **Controlled Change** is any change that is not in the list of the types of changes that are categorized as a standard change. Controlled changes are changes that might require downtime or might affect the stability of Tier 1 or Tier 2 systems and applications. These changes have either higher risk or difficult to define risks associated with them and as a result, require review and approval from technical experts in the company. These changes follow a defined approval process that includes a predefined information set. The approvals can be quick and resolved electronically in a Change Management ticket. Any of the approvers can escalate the review of the change to a more rigorous review where additional evaluation can occur. Changes that affect the stability, availability, or security of production systems and services (Tier 1 systems) would likely fall into this category. A controlled change requires a controlled change management ticket to be created and filled out. The Change Advisory Board or delegate will then review and approve the ticket. If necessary, additional analysis and requests for information can be made before approval is granted. These changes also require a declared maintenance window that is communicated with customers in advance of the change. Controlled changes require extensive QA testing, appropriate staffing during the change, documented test plan to ensure that the change was successful, and a complete rollback plan to follow in the event the change needs to be reverted.
@@ -73,7 +73,7 @@ Applicable Standards from the HITRUST Common Security Framework:
 
 The minimum classification of an information store, application, or system is inheritable. For example, an application that stores, processes, or transmits Tier 1 (Protected) data is automatically considered a Tier 1 (Protected) application.
 
-#### Tier 1 - Protected
+**Tier 1 - Protected**
 
 This tier includes all information that is mandated to be protected under a specific compliance regime. It is assumed that any customer information store falls into this category. Tier 1 information is considered extremely sensitive and must be safeguarded in order to protect the privacy of individuals, the security and integrity of systems, to guard against fraud, and to reduce the risk of unauthorized disclosure. Tier 1 information may include, but is not limited to:
  
@@ -96,7 +96,7 @@ Access to Tier 1 (Protected) data is limited only to those with a business need.
 
 See the System Security Policy, Data Integrity Policy and Encryption Standard for detailed enumeration of the controls necessary to protect Tier 1 (Protected) data at rest and in transit.
 
-#### Tier 2 - Confidential
+**Tier 2 - Confidential**
 
 Tier 2 contains restricted information that is required to be maintained in a highly confidential manner as directed by Datica’s Privacy Officer, applicable law or regulation, contractual obligation, or subject to any applicable legal privilege or protection. Examples include, but are not limited to:
 
@@ -117,7 +117,7 @@ Access to Tier 2 (Confidential) data is limited to Datica employees and third pa
 
 See the System Security Policy, Data Integrity Policy and Encryption Standard for detailed enumeration of the controls necessary to protect Tier 2 (Confidential) data at rest and in transit.
 
-#### Tier 3 - Private
+**Tier 3 - Private**
 
 This tier includes "official use only" information about the business and its personnel that can be shared with Datica staff and its authorized partners, but will not be routinely made available to the public without explicit authorization from the Privacy Officer or CSO or delegate. Information in this category includes, but is not limited to:
 
@@ -130,7 +130,7 @@ This tier includes "official use only" information about the business and its pe
 
 Access to this information is limited to Datica employees or third parties operating under an executed non-disclosure agreement. This information should never be stored on a computing device or electronic storage media that is personally owned.
 
-#### Tier 4 - Public
+**Tier 4 - Public**
 
 This tier includes data and information that are considered to freely exist in the public domain and contain no information from Tier 1, 2, or 3.
 
@@ -138,19 +138,19 @@ This tier includes data and information that are considered to freely exist in t
 
 Application classification follows the type of information that the application handles (stores, processes, or transmits). If an application handles Tier 1 (Protected) data, then the application is considered a Tier 1 (Protected) application. 
 
-#### Tier 1 - Protected
+**Tier 1 - Protected**
 
 Any application that is involved with the storage, processing, or transmission of Tier 1 data is considered a Tier 1 (Protected) application.
 
-#### Tier 2 - Confidential
+**Tier 2 - Confidential**
 
 Any application that stores, processes, or transmits Tier 2 (Confidential) information is considered a Tier 2 (Confidential) application.
 
-#### Tier 3 - Private
+**Tier 3 - Private**
 
 Any application that stores, processes, or transmits Tier 3 (Private) information is considered a Tier 3 (Private) application.
 
-#### Tier 4 - Common Tools and Applications
+**Tier 4 - Common Tools and Applications**
 
 Tier 4 applications represent tools that are commonly installed with most modern operating systems (SSH, Internet browser and plugins, SFTP client, password safes, etc…) and which might be used to work with higher Tier information, but only as a way to administer or consume the information. Many of the standards (or the Acceptable Use Policy) will outline specific configuration and usage restrictions for the use of these common tools.
 
@@ -158,19 +158,19 @@ Tier 4 applications represent tools that are commonly installed with most modern
 
 A "System" can be a range of technology mechanisms that perform a discrete function or service. A System may be a single process running in a container or VM, or a set of processes spanning multiple containers and/or VMs.
 
-#### Tier 1 - Production - Customer Facing
+**Tier 1 - Production - Customer Facing**
 
 Systems that host customer containers or services or which directly affect or have an impact on the information security (e.g., confidentiality, availability, integrity) or compliance posture of those containers or services are considered a Tier-1 (Production) systems. 
 
-#### Tier 2 - Stage/Test/QA - Internet Facing (Non-Customer)
+**Tier 2 - Stage/Test/QA - Internet Facing (Non-Customer)**
 
 Systems that host customer staging, test, or QA containers or services or Datica-administered services that are directly accessible from the Internet are considered Tier 2 (Confidential) systems.  Note that by policy, staging, test, or QA systems are forbidden to store, process, or transmit Tier 1 (Protected) data.
 
-#### Tier 3 - Development environments / Workstations (Company-managed system)
+**Tier 3 - Development environments / Workstations (Company-managed system)**
 
 Datica administered systems that host development environments and Datica-purchased workstations (including other mobile computing devices) are considered Tier 3 Dev systems.
 
-#### Tier 4 - Unsecured (Personal/unmanaged system)
+**Tier 4 - Unsecured (Personal/unmanaged system)**
 
 Any computing system that is not purchased or administered by Datica is considered a Tier 4 Unsecured system. This includes employee-owned workstations, mobile computing devices, and cloud-based environments and services. 
 

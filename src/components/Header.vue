@@ -1,6 +1,6 @@
 <template>
   <header class="header" :class="{'header--scrolled' : pageScrolled}">
-    <Logo :color="logoColor" />
+    <Logo :color="logoColor" link="/" /><Logo :color="logoColor" link="https://datica.com" />
     <nav class="nav">
       <ThemeSwitch v-on:theme-change="updateLogo" />
       <MenuToggle v-if="menuToggle" />

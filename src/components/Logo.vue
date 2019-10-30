@@ -1,5 +1,5 @@
 <template>
-  <g-link to="/" class="logo" title="Back to home">
+  <g-link :to="link" class="logo" title="Back to home">
     <transition name="theme">
       <div v-if="color == 'dark'">
         <g-image src="~/assets/img/logo-bright.svg" alt="logo" />
@@ -16,6 +16,10 @@
 <script>
 export default {
   props: {
+    link: {
+      type: String,
+      required: true
+    },
     color: {
       type: String,
       required: true
