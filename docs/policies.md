@@ -272,6 +272,7 @@ The American Recovery and Reinvestment Act of 2009 (ARRA) was signed into law on
 
 1. Discovery of Breach: A breach of personal information regarding EU data subjects shall be treated as "discovered" as of the first day on which such breach is known to the organization, or, by exercising reasonable diligence would have been known to Datica (includes breaches by the organization's Customers, Partners, or subcontractors). Datica shall be deemed to have knowledge of a breach if such breach is known or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or Partner of the organization. Following the discovery of a potential breach, the organization shall begin an investigation (see organizational policies for security incident response and/or risk management incident response) immediately, conduct a risk assessment, and based on the results of the risk assessment, begin the process to notify each Customer affected by the breach. Once the breach has been confirmed by the Datica Security Officer, notice should be provided as soon as possible to Datica’s representative in the Union:
 
+```
 William Fry
 Solicitors
 2 Grand Canal Square
@@ -279,6 +280,7 @@ Grand Canal Dock
 Dublin 2
 Ireland
 +353 1 639 5000
+```
 
 
 1. Breach Investigation: The Datica Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to Datica Customers. All documentation related to the breach investigation, including the risk assessment, shall be retained indefinitely. 
@@ -327,6 +329,7 @@ As a result of business activities that we undertake in the European Union, Dati
 
 1. Discovery of Breach: A breach of personal information shall be treated as "discovered" as of the first day on which such breach is known to the organization, or, by exercising reasonable diligence would have been known to Datica (includes breaches by the organization's Partners, or subcontractors). Datica shall be deemed to have knowledge of a breach if such breach is known or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or Partner of the organization. Following the discovery of a potential breach, the organization shall begin an investigation (see organizational policies for security incident response and/or risk management incident response) immediately, conduct a risk assessment, and based on the results of the risk assessment, begin the process to notify each Customer affected by the breach. Datica shall also begin the process of determining what external notifications are required or should be made (e.g., relevant European Union supervisory authorities, media outlets, law enforcement officials, etc.). Once the breach has been confirmed by the Datica Security Officer, notice should be provided as soon as possible to Datica’s representative in the Union:
 
+```
 William Fry
 Solicitors
 2 Grand Canal Square
@@ -334,6 +337,7 @@ Grand Canal Dock
 Dublin 2
 Ireland
 +353 1 639 5000
+```
  
 
 1. Breach Investigation: The Datica Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to the appropriate entities (e.g., supervisory authorities, media, law enforcement officials, etc.). All documentation related to the breach investigation, including the risk assessment, shall be retained indefinitely. 
