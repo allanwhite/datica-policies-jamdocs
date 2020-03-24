@@ -7,8 +7,8 @@ slug: roles
 
 ### Chief Security Officer
 
-**Ryan Rich**
-`ryan.rich@datica.com`
+**Trevor Machado**
+`trevor.machado@datica.com`
 
 The Chief Security Officer (CSO) is responsible for working with user management, owners, custodians, and users to develop and implement prudent security policies, procedures, and controls, subject to the approval of Datica. In HIPAA terms, the CSO is considered the "Security Officer" for Datica. Specific responsibilities include:
 
