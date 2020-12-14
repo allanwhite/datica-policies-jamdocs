@@ -7,8 +7,8 @@ slug: roles
 
 ### Chief Security Officer
 
-**Trevor Machado**
-`trevor.machado@datica.com`
+**Ted Bienapfl**
+`ted.bienapfl@datica.com`
 
 The Chief Security Officer (CSO) is responsible for working with user management, owners, custodians, and users to develop and implement prudent security policies, procedures, and controls, subject to the approval of Datica. In HIPAA terms, the CSO is considered the "Security Officer" for Datica. Specific responsibilities include:
 
@@ -77,8 +77,8 @@ The user is any person who has been authorized to read, enter, or update informa
 
 ### Privacy Officer/Data Privacy Officer
 
-**Jeremy Pierotti**
-`jeremy.pierotti@datica.com`
+**Ted Bienapfl**
+`ted.bienapfl@datica.com`
 
 The Privacy Officer, in collaboration with the CSO or delegate, Information Security/Risk Management/Compliance Team, and senior leadership, are responsible for overseeing the development, implementation, and oversight of all activities pertaining to Datica’s efforts to be compliant with, among other compliance mandates, the HIPAA Privacy Rule (Privacy Rule) and Breach of Unsecured PHI Rule, as applicable and as described in Business Associate Agreements. The intent of all oversight activities include those necessary to maintain the Confidentiality, integrity, and availability of protected information as described in the Information and System Classification section of this policy. These responsibilities include, but are not limited to the following:
 
