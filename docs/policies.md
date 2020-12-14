@@ -527,8 +527,8 @@ If an employee, workforce member, business associate, or partner believes he or 
     <td>Summary of Changes</td>
   </tr>
   <tr>
-    <td>2019-v1.0</td>
-    <td>8/30/2019</td>
+    <td>2020-v1.0</td>
+    <td>11/30/2020</td>
     <td>Original - Effective</td>
   </tr>
   <tr>
