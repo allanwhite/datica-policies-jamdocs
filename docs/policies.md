@@ -323,7 +323,7 @@ Ireland
 
 3. Notice to Secretary of HHS: Datica Customers are responsible for providing notice to the Secretary of HHS at the Customer's discretion.
 
-<!--### Breach notifications involving EU personal information collected by Datica
+<!-- ### Breach notifications involving EU personal information collected by Datica
 
 <!--As a result of business activities that we undertake in the European Union, Datica may come into contact directly with personal information regarding European Union data subjects that results in Datica being considered a "data controller" under GDPR (ex. website account information collected from persons located in the geographic boundaries of the European Union). In the event of a breach of such information, a different procedure applies than the one that is used to respond to the loss of customer information.-->
 
@@ -349,9 +349,9 @@ Ireland
     <!-- * The cause of the breach, and the entity responsible for the breach, either Datica, or Partner. -->
     <!-- * The potential for significant risk of financial, reputational, or other harm.-->
 
-<!--3. Timeliness of Notification: Upon discovery of a breach, notice shall be made to the relevant EU supervisory authority without unreasonable delay, no later than 72 hours after the discovery of the breach. It is the responsibility of the organization to demonstrate that all notifications were made as required, including evidence demonstrating the necessity of delay.-->
+<!-- 3. Timeliness of Notification: Upon discovery of a breach, notice shall be made to the relevant EU supervisory authority without unreasonable delay, no later than 72 hours after the discovery of the breach. It is the responsibility of the organization to demonstrate that all notifications were made as required, including evidence demonstrating the necessity of delay.-->
 
-<!--4. Content of the Notice: The notice shall be written in plain language and must contain the following information: -->
+<!-- 4. Content of the Notice: The notice shall be written in plain language and must contain the following information: -->
 
   <!--  * A brief description of what happened, including the date of the breach and the date of the discovery of the breach, if known; -->
   <!--  * A description of the types of personal information that were involved in the breach (such as whether full name, national identifier, date of birth, home address, account number, diagnosis, disability code or other types of information were involved), if known; -->
@@ -359,7 +359,7 @@ Ireland
 <!--    * A brief description of what Datica is doing to investigate the breach, to mitigate harm to individuals and to protect against further breaches. -->
  <!--   * Contact procedures for Datica’s GDPR Data Protection Officer and its representative in the Union. -->
 
-<!--5. Methods of Notification: The appropriate supervisory authority will be notified via email and phone. -->
+<!-- 5. Methods of Notification: The appropriate supervisory authority will be notified via email and phone. -->
 
 ### Breach Accounting and Additional Considerations
 
