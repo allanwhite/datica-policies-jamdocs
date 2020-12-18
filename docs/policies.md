@@ -247,7 +247,7 @@ The American Recovery and Reinvestment Act of 2009 (ARRA) was signed into law on
 2. Breach Investigation: The Datica Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to the appropriate entities (e.g., HHS, media, law enforcement officials, etc.). All documentation related to the breach investigation, including the risk assessment, shall be retained for a minimum of six years. 
 3. Risk Assessment: For an acquisition, access, use or disclosure of ePHI to constitute a breach, it must constitute a violation of the HIPAA Privacy Rule. A use or disclosure of ePHI that is incident to an otherwise permissible use or disclosure and occurs despite reasonable safeguards and proper minimum necessary procedures would not be a violation of the Privacy Rule and would not qualify as a potential breach. To determine if an impermissible use or disclosure of ePHI constitutes a breach and requires further notification, the organization will need to perform a risk assessment to determine if there is significant risk of harm to the individual as a result of impermissible use or disclosure. The organization shall document the risk assessment as part of the investigation in the incident report form noting the outcome of the risk assessment process. The organization has the burden of proof for demonstrating that all notifications to appropriate Customers or that the use or disclosure did not constitute a breach. Based on the outcome of the risk assessment, the organization will determine the need to move forward with breach notification. The risk assessment and the supporting documentation shall be fact specific and address:
 
-    * onsideration of who impermissibly used or to whom the information was impermissibly disclosed;
+    * Consideration of who impermissibly used or to whom the information was impermissibly disclosed;
     * he type and amount of ePHI involved;
     * he cause of the breach, and the entity responsible for the breach, either Customer, Datica, or Partner.
     * The potential for significant risk of financial, reputational, or other harm.
@@ -323,43 +323,43 @@ Ireland
 
 3. Notice to Secretary of HHS: Datica Customers are responsible for providing notice to the Secretary of HHS at the Customer's discretion.
 
-<!-- ### Breach notifications involving EU personal information collected by Datica
+### Breach notifications involving EU personal information collected by Datica
 
-<!--As a result of business activities that we undertake in the European Union, Datica may come into contact directly with personal information regarding European Union data subjects that results in Datica being considered a "data controller" under GDPR (ex. website account information collected from persons located in the geographic boundaries of the European Union). In the event of a breach of such information, a different procedure applies than the one that is used to respond to the loss of customer information.-->
+As a result of business activities that we undertake in the European Union, Datica may come into contact directly with personal information regarding European Union data subjects that results in Datica being considered a "data controller" under GDPR (ex. website account information collected from persons located in the geographic boundaries of the European Union). In the event of a breach of such information, a different procedure applies than the one that is used to respond to the loss of customer information.
 
-<!--1. Discovery of Breach: A breach of personal information shall be treated as "discovered" as of the first day on which such breach is known to the organization, or, by exercising reasonable diligence would have been known to Datica (includes breaches by the organization's Partners, or subcontractors). Datica shall be deemed to have knowledge of a breach if such breach is known or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or Partner of the organization. Following the discovery of a potential breach, the organization shall begin an investigation (see organizational policies for security incident response and/or risk management incident response) immediately, conduct a risk assessment, and based on the results of the risk assessment, begin the process to notify each Customer affected by the breach. Datica shall also begin the process of determining what external notifications are required or should be made (e.g., relevant European Union supervisory authorities, media outlets, law enforcement officials, etc.). Once the breach has been confirmed by the Datica Security Officer, notice should be provided as soon as possible to Datica’s representative in the Union:-->
+1. Discovery of Breach: A breach of personal information shall be treated as "discovered" as of the first day on which such breach is known to the organization, or, by exercising reasonable diligence would have been known to Datica (includes breaches by the organization's Partners, or subcontractors). Datica shall be deemed to have knowledge of a breach if such breach is known or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or Partner of the organization. Following the discovery of a potential breach, the organization shall begin an investigation (see organizational policies for security incident response and/or risk management incident response) immediately, conduct a risk assessment, and based on the results of the risk assessment, begin the process to notify each Customer affected by the breach. Datica shall also begin the process of determining what external notifications are required or should be made (e.g., relevant European Union supervisory authorities, media outlets, law enforcement officials, etc.). Once the breach has been confirmed by the Datica Security Officer, notice should be provided as soon as possible to Datica’s representative in the Union:
 
-<!--```-->
-<!--William Fry-->
-<!--Solicitors-->
-<!--2 Grand Canal Square-->
-<!--Grand Canal Dock-->
-<!--Dublin 2-->
-<!--Ireland-->
-<!--+353 1 639 5000-->
-<!--```-->
+```
+William Fry
+Solicitors
+2 Grand Canal Square
+Grand Canal Dock
+Dublin 2
+Ireland
++353 1 639 5000
+```
  
 
-<!--1. Breach Investigation: The Datica Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to the appropriate entities (e.g., supervisory authorities, media, law enforcement officials, etc.). All documentation related to the breach investigation, including the risk assessment, shall be retained indefinitely. -->
+1. Breach Investigation: The Datica Security Officer shall name an individual to act as the investigator of the breach (e.g., privacy officer, security officer, risk manager, etc.). The investigator shall be responsible for the management of the breach investigation, completion of a risk assessment, and coordinating with others in the organization as appropriate (e.g., administration, security incident response team, human resources, risk management, public relations, legal counsel, etc.) The investigator shall be the key facilitator for all breach notification processes to the appropriate entities (e.g., supervisory authorities, media, law enforcement officials, etc.). All documentation related to the breach investigation, including the risk assessment, shall be retained indefinitely.
 
-<!--2. Risk Assessment: For an acquisition, access, use or disclosure of personal information to constitute a breach, the loss of information must cause a "high risk to the rights and freedoms of natural persons." For example, if the personal information exposed is fully encrypted, and unable to be decrypted by unauthorized persons, the loss of that information would not constitute a breach. To determine if an impermissible use or disclosure of personal information constitutes a breach and requires further notification, the organization will need to perform a risk assessment to determine if there is significant risk of harm to the individual as a result of impermissible use or disclosure. The organization shall document the risk assessment as part of the investigation in the incident report form noting the outcome of the risk assessment process. The organization has the burden of proof for demonstrating that all notifications to appropriate Customers or that the use or disclosure did not constitute a breach. Based on the outcome of the risk assessment, the organization will determine the need to move forward with breach notification. The risk assessment and the supporting documentation shall be fact specific and address:-->
+2. Risk Assessment: For an acquisition, access, use or disclosure of personal information to constitute a breach, the loss of information must cause a "high risk to the rights and freedoms of natural persons." For example, if the personal information exposed is fully encrypted, and unable to be decrypted by unauthorized persons, the loss of that information would not constitute a breach. To determine if an impermissible use or disclosure of personal information constitutes a breach and requires further notification, the organization will need to perform a risk assessment to determine if there is significant risk of harm to the individual as a result of impermissible use or disclosure. The organization shall document the risk assessment as part of the investigation in the incident report form noting the outcome of the risk assessment process. The organization has the burden of proof for demonstrating that all notifications to appropriate Customers or that the use or disclosure did not constitute a breach. Based on the outcome of the risk assessment, the organization will determine the need to move forward with breach notification. The risk assessment and the supporting documentation shall be fact specific and address:
 
-    <!-- * Consideration of who impermissibly used or to whom the information was impermissibly disclosed; -->
-   <!-- * The type and amount of personal information involved; -->
-    <!-- * The cause of the breach, and the entity responsible for the breach, either Datica, or Partner. -->
-    <!-- * The potential for significant risk of financial, reputational, or other harm.-->
+    * Consideration of who impermissibly used or to whom the information was impermissibly disclosed;
+    * The type and amount of personal information involved;
+    * The cause of the breach, and the entity responsible for the breach, either Datica, or Partner.
+    * The potential for significant risk of financial, reputational, or other harm.
 
-<!-- 3. Timeliness of Notification: Upon discovery of a breach, notice shall be made to the relevant EU supervisory authority without unreasonable delay, no later than 72 hours after the discovery of the breach. It is the responsibility of the organization to demonstrate that all notifications were made as required, including evidence demonstrating the necessity of delay.-->
+3. Timeliness of Notification: Upon discovery of a breach, notice shall be made to the relevant EU supervisory authority without unreasonable delay, no later than 72 hours after the discovery of the breach. It is the responsibility of the organization to demonstrate that all notifications were made as required, including evidence demonstrating the necessity of delay.
 
-<!-- 4. Content of the Notice: The notice shall be written in plain language and must contain the following information: -->
+4. Content of the Notice: The notice shall be written in plain language and must contain the following information:
 
-  <!--  * A brief description of what happened, including the date of the breach and the date of the discovery of the breach, if known; -->
-  <!--  * A description of the types of personal information that were involved in the breach (such as whether full name, national identifier, date of birth, home address, account number, diagnosis, disability code or other types of information were involved), if known; -->
-<!--    * A description of the likely consequences of the breach.-->
-<!--    * A brief description of what Datica is doing to investigate the breach, to mitigate harm to individuals and to protect against further breaches. -->
- <!--   * Contact procedures for Datica’s GDPR Data Protection Officer and its representative in the Union. -->
+* A brief description of what happened, including the date of the breach and the date of the discovery of the breach, if known;
+* A description of the types of personal information that were involved in the breach (such as whether full name, national identifier, date of birth, home address, account number, diagnosis, disability code or other types of information were involved), if known;
+* A description of the likely consequences of the breach.
+* A brief description of what Datica is doing to investigate the breach, to mitigate harm to individuals and to protect against further breaches.
+* Contact procedures for Datica’s GDPR Data Protection Officer and its representative in the Union.
 
-<!-- 5. Methods of Notification: The appropriate supervisory authority will be notified via email and phone. -->
+5. Methods of Notification: The appropriate supervisory authority will be notified via email and phone.
 
 ### Breach Accounting and Additional Considerations
 
