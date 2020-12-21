@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.netlify.com',
+  siteName: 'Datica Open-Source Compliance Policies',
+  siteUrl: 'https://policy.datica.com',
   templates: {
     Doc: '/:slug',
   },
@@ -37,7 +37,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: (process.env.GA_ID ? process.env.GA_ID : 'XX-999999999-9')
+        id: (process.env.GA_ID ? process.env.GA_ID : 'UA-60319203-4')
       }
     },
     {

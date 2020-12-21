@@ -4,12 +4,14 @@
 @import 'config/functions';
 @import 'prism';
 
+$sidebarWidth: 300px;
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
   line-height: 1.7;
@@ -52,10 +54,21 @@ h1 {
   margin-top: 0;
 
   @include respond-above(md) {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 }
 
 a {
   color: $brandPrimary;
+}
+
+.mask {
+  &-bottom {
+    mask: linear-gradient(0deg, rgba(0,0,0,0) 3%, rgba(0,0,0,1) 20%);
+    -webkit-mask: linear-gradient(0deg, rgba(0,0,0,0) 6%, rgba(0,0,0,1) 13%);
+  }
+  &-top {
+    mask: linear-gradient(180deg, rgba(0,0,0,0) 3%, rgba(0,0,0,1) 20%);
+    -webkit-mask: linear-gradient(180deg, rgba(0,0,0,0) 6%, rgba(0,0,0,1) 13%);
+  }
 }
