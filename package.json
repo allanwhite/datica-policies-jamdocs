@@ -3,7 +3,7 @@
   "private": true,
   "engines": {
     "node": "10.x"
-  }
+  },
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
