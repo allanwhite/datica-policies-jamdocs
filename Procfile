@@ -1,1 +1,1 @@
-web: gridsome build dist/
+web: npm run build
