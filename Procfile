@@ -1,1 +1,1 @@
-web: npm run explore
+web: npm run build
