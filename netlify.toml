@@ -3,3 +3,10 @@
   publish = "dist"
 [build.environment]
   NODE_VERSION = "10"
+  
+  # Redirect policy domain to datica policy page
+[[redirects]]
+  from = "https://policy.datica.com/*"
+  to = "https://datica.com/policy"
+  status = 301
+  force = true
