@@ -1,14 +1,16 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>Jamdocs - the ultimate static generated documentation theme for the JAM-stack</h1>
+      <h1>Datica Compliance Policies</h1>
+      <p class="lead">This is the public version of Datica's HIPAA Compliance Policies. For pull requests, or to download the source, please visit the github project for this site. If you have any further questions, please reach out to us at hello@datica.com.</p>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+        <Shortcut link="/purpose" text="Purpose and Scope" icon="align-center-icon" />
+        <Shortcut link="/roles" text="Roles and Responsibilities" icon="users-icon" />
+        <Shortcut link="/policies" text="Policies" icon="check-square-icon" />
       </nav>
       <GitLink class="git" size="large" />
+      <span class="sitelink">Visit <a href="https://datica.com/" title="Datica Main Site">Datica</a> main site</span>
     </div>
   </Layout>
 </template>
@@ -23,9 +25,9 @@ export default {
     Shortcut
   },
   metaInfo: {
-    title: 'The ultimate static generated documentation theme for the JAM-stack',
+    title: 'Datica Compliance Policies',
     meta: [
-      { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+      { key: 'description', name: 'description', content: 'Datica open-source compliance policies.' }
     ]
   }
 }
@@ -68,6 +70,17 @@ nav {
 
   @include respond-above(md) {
     margin: 5em 0 0;
+  }
+}
+p.lead {
+  margin: 1rem auto 3rem auto;
+  max-width: 50em;
+}
+.sitelink {
+  margin: 1rem;
+  text-align: center;
+  a {
+    font-weight: bold;
   }
 }
 </style>

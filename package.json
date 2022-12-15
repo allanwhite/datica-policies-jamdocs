@@ -1,6 +1,9 @@
 {
   "name": "jamdocs",
   "private": true,
+  "engines": {
+    "node": "10.x"
+  },
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
@@ -14,7 +17,7 @@
     "@gridsome/transformer-remark": "^0.3.4",
     "gridsome": "^0.7.0",
     "gridsome-plugin-algolia": "^2.1.1",
-    "typeface-source-sans-pro": "^0.0.54",
+    "typeface-inter": "^3.10.0",
     "vue-feather-icons": "^4.22.0",
     "vuex": "^3.1.1"
   },

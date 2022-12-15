@@ -1,10 +1,11 @@
 <template>
   <header class="header" :class="{'header--scrolled' : pageScrolled}">
-    <Logo :color="logoColor" />
+    <Logo :color="logoColor" link="/" />
     <nav class="nav">
       <ThemeSwitch v-on:theme-change="updateLogo" />
       <MenuToggle v-if="menuToggle" />
     </nav>
+    
   </header>
 </template>
 
@@ -93,5 +94,19 @@ export default {
 nav {
   display: flex;
 }
+// .logo-mask {
+//   position: absolute;
+//   z-index: 10;
+//   width: $sidebarWidth;
+//   top: 0;
+//   left: 0;
+//   height: 100px;
+//   // .dark & {
+//   //   background: $sidebarDark;
+//   // }
+//   // .bright & {
+//   //   background: $sidebarBright;
+//   // }
+// }
 </style>
 
